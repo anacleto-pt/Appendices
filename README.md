@@ -1,2 +1,2 @@
 # Anexos CV
-In this repository you can find my CV appendices
+Neste repositório estão os anexos do meu CV
